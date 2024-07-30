@@ -1,0 +1,183 @@
+version: 1
+task_description: 'Teach the model about the Sales Specialist (SSP) role at Red Hat'
+created_by: human
+domain: business
+seed_examples:
+  - question: What is the vision for the role of a Specialist Seller at Red Hat?
+    answer: |
+      The vision for the role of a Specialist Seller at Red Hat is to engage with senior customer
+      stakeholders on strategic opportunities within target accounts, positioning business value
+      through Red Hat and partner solutions to drive net new subscription revenue. The SSP is a
+      key contributor and senior advisor to the account growth strategy, leading large and complex
+      opportunity cycles, owning technical & competitive differentiation while maintaining a high
+      technical acumen for the product(s). The SSP orchestrates specialist GTM resources, as well
+      as working with the relevant partner ecosystem.
+  - question: What are some key responsibilities of a Sales Specialist at Red Hat?
+    answer: |
+      Some key responsibilities of a Sales Specialist at Red Hat include:
+      - Owning strategic new opportunities and leading critical customer presentations/sessions
+        around business problems, Red Hat solutions, business value, competitive positioning,
+        and product capabilities and roadmaps
+      - Maintaining relevant and detailed knowledge about products in their domain and general
+        knowledge of the Red Hat portfolio
+      - Maintaining knowledge and enabling account teams on current "Plays" in their domain
+      - Advising on and speaking to forecast for appropriate products, services, and training
+      - Guiding strategy based on deep knowledge of industry or specialty
+      - Positioning right-sized solutions in the context of customer challenges/problems
+      - Driving growth beyond initial sale and deployment to scale and expansion to other relevant products
+      - Coordinating with Customer Success on delivery of proposed business value
+  - question: What certifications are recommended for Sales Specialists at Red Hat?
+    answer: |
+      The recommended certifications for Sales Specialists at Red Hat depend on their specialization:
+
+      For App Platform SSP:
+      - Red Hat Cloud Provider
+      - Red Hat Portfolio Practitioner
+      - Azure (AZ-900)
+      - AWS CCP Practitioner
+
+      For Automation SSP:
+      - Red Hat Portfolio Practitioner
+  - question: What are the job levels for Sales Specialists at Red Hat?
+    answer: |
+      The job levels for Sales Specialists at Red Hat range from Level 2 to Level 6 in the Professional category:
+
+      - Level 2: Entry level with basic selling skills, typically requiring a minimum of two years of related experience
+      - Level 3: Responsible for moderately complex customer accounts, typically requiring a minimum of five years of related experience
+      - Level 4: Responsible for complex customer accounts, typically requiring a minimum of eight years of related experience
+      - Level 5: Responsible for highly complex customer accounts, typically requiring a minimum of twelve years of related experience
+      - Level 6: Highest level, providing mentorship and guidance, typically requiring a minimum of fifteen years of related experience
+  - question: What is the compensation structure for Sales Specialists at Red Hat?
+    answer: |
+      The compensation structure for Sales Specialists (SSP) at Red Hat is:
+      - 90% Product Specific (new SYB)
+      - 10% Professional Services (new SYB)
+  - question: What is the Mobius Loop of Sales & Delivery?
+    answer: |
+      The Mobius Loop of Sales & Delivery is a framework that represents the continuous nature of sales
+      under consumption economics. It consists of the following stages:
+        - Qualify
+        - Intake
+        - Execution
+        - Validate
+        - Check
+        - Feedback
+        - Plan
+      This loop emphasizes the interconnectedness of sales and delivery, highlighting that customer
+      success is a result of both.
+  - question: What are the key activities involved in the 'Tech Sales Mission' at Red Hat?
+    answer: |
+      The 'Tech Sales Mission' at Red Hat involves the following key activities:
+      - **Product Focus:** Prioritizing resources towards the most strategic products.
+      - **Role Clarity:** Simplifying responsibilities and empowering Tech Sellers.
+      - **Targeted Coverage:** Aligning Sales Specialists only with accounts presenting high net-new opportunities.
+      - **Increased Specialization:** Encouraging Specialists to focus on fewer products, thereby increasing expertise.
+      - **Reduced Overlap:** Minimizing product coverage overlap between Specialists.
+      - **Improved Associate Experience:** Providing clear career paths and enhancing the overall experience.
+      - **Intentional Account & Region Coverage:** Strategically allocating Specialist coverage to maximize impact.
+      - **Dedicated Ecosystem Coverage:** Ensuring specialized support for partners to drive scalability.
+  - question: What is the purpose of the 'Opportunity Management' framework and what are its key elements?
+    answer: |
+      The 'Opportunity Management' framework provides a structured approach to managing sales
+      opportunities throughout the buyer's journey. It aligns the buyer's journey with Red Hat's
+      internal sales stages and MEDDPICC methodology. Key elements include:
+
+      **Buyer's Journey Stages:**
+        - Unaware
+        - Education/Awareness
+        - Solution Consideration
+        - Vendor Selection
+
+      **Sales Stages (SFDC):**
+        - Prepare
+        - Engage
+        - Qualify
+        - Validate
+        - Propose
+        - Negotiate
+        - Closed Won
+
+      **MEDDPICC:**
+        - Metrics
+        - Economic Buyer
+        - Decision Criteria
+        - Decision Process
+        - Paper Process
+        - Identify Pain
+        - Champion
+        - Competition
+
+      The framework also outlines verifiable outcomes, key activities, and resources for each stage,
+      guiding the sales team towards successful deal closure.
+  - question: What are the different levels of professional scope for an SSP at Red Hat?
+    answer: |
+      Red Hat defines five levels of professional scope for SSPs, ranging from Level 2 to Level 6.
+      Each level encompasses various aspects like Red Hat processes, business and tooling knowledge,
+      portfolio and sales cycle expertise, level of responsibility, and contributions to business growth.
+
+      **Level 2 (Entry Level):** Focuses on following established processes, developing business
+      knowledge, and gaining basic understanding of tools and the sales cycle.
+
+      **Level 3:** Demonstrates a deeper understanding of Red Hat's processes, tools, and sales
+      cycle. Takes ownership of contributing to Red Hat's success and manages moderately complex accounts.
+
+      **Level 4:** Possesses advanced knowledge of Red Hat's offerings, sales strategies, and
+      processes. Manages complex customer accounts and proactively contributes to business growth.
+
+      **Level 5:** Acts as a technical sales expert, demonstrating a thorough understanding of
+      product interdependencies and contributing to sales strategy. Manages highly complex accounts
+      and drives significant business growth.
+
+      **Level 6:** Represents the highest level of expertise, acting as a thought leader and
+      influencing Red Hat's technical sales processes. Develops multi-year growth plans and provides
+      mentorship to other SSPs.
+  - question: How is professional complexity evaluated for Sales Specialists at Red Hat?
+    answer: |
+      Red Hat assesses professional complexity for SSPs based on several factors:
+
+      *Problem-Solving Abilities:* Starting from resolving routine issues with guidance to
+      independently tackling highly complex and unique problems that impact critical sales
+      projects and customer relationships.
+
+      *Technical Sales Expertise:* Progressing from basic understanding of customer
+      problems to proactively identifying customer needs and recommending strategic,
+      cross-functional solutions.
+
+      *Decision-Making Skills:* Evolving from making decisions within defined procedures to
+      exercising significant independent judgment and interpreting complex sales situations.
+
+      *Team Leadership Qualities:* Transitioning from resolving customer issues
+      independently to mentoring and coaching junior team members on complex issues.
+
+      *Stakeholder Engagement Prowess:* Advancing from establishing functional
+      relationships with customers to becoming a trusted advisor who understands and
+      proactively addresses their needs.
+
+      Each level (Level 2 to Level 6) reflects increasing complexity in these areas, showcasing
+      the SSP's growth in handling intricate scenarios and making impactful decisions.
+  - question: How does Red Hat measure the impact of its Sales Specialists?
+    answer: |
+      Red Hat evaluates the impact of its Sales Specialists based on their influence on
+      customer relationships, sales, and overall business growth.
+
+      *Customer Relationships:* This involves building strong relationships, understanding
+      customer needs, and becoming a trusted advisor who can proactively identify and
+      address their requirements.
+
+      *Sales Influence:* This focuses on the SSP's ability to drive sales, close deals
+      effectively, and manage the sales cycle efficiently while maintaining strong customer
+      relationships.
+
+      *Business Growth Contribution:* This encompasses the SSP's contribution to
+      expanding existing business, identifying new opportunities, and driving revenue growth
+      through their sales efforts.
+
+      Red Hat measures these aspects across different levels, with higher levels demonstrating
+      greater impact through strategic thinking, proactive problem-solving, and a deep
+      understanding of customer needs and business dynamics.
+document:
+  repo: /home/tikeda/workspace/instructlab/taxonomy/knowledge/business/red_hat_ssp/ssphandbook.yaml
+  commit: abc123
+  patterns:
+    - ssphandbook.yaml
+
